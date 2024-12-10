@@ -20,3 +20,4 @@ A demo repo for deploying a Laravel PHP application on [Render](https://render.c
    | `DB_CONNECTION`  | `pgsql` |
 
 That's it! Your Laravel 11 app will be live on your Render URL as soon as the build finishes. You can test it out by registering and logging in.
+# php-laravel-docker-master
